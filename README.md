@@ -1,1 +1,1 @@
-# cmsc22
+# Java Spell Casting Console Game
